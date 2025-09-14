@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Ujwal S 
 
 # 💫 About Me:
-🔭 I’m currently working on Backend <br>🌱 I’m currently learning FULLSTACK(MERN)<br> Ready to contribute for FRONTEND
+🔭 I’m currently Learning Backend Technologies <br> 
 
 
 ## 🌐 Socials:
